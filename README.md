@@ -10,7 +10,9 @@
   <line x1="20" y1="70" x2="130" y2="70" stroke="#000000" stroke-width="2" />
   <line x1="20" y1="90" x2="130" y2="90" stroke="#000000" stroke-width="2" />
 </svg>
+
 **Developed and Maintained by AI & Robotics Society, MTA**
+
 #### Objective
 The Note-Taking Assistant project aims to simplify the note-taking process for both professors and students through two integrated modules:
 #### Vision
