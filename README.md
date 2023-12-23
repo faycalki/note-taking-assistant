@@ -13,9 +13,9 @@
 
 **Developed and Maintained by AI & Robotics Society, MTA**
 
-#### Objective
+### Objective
 The Note-Taking Assistant project aims to simplify the note-taking process for both professors and students through two integrated modules:
-#### Vision
+### Vision
 To revolutionize the note-taking process for educators and students, creating a seamless and efficient experience.
 #### Module 1: Image and Text Processing (Codename: LensNotes)
 - **Functionality:**
